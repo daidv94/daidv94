@@ -1,25 +1,13 @@
-<a href="https://github.com/daidv94">
-  <img align="center" width="49%" src="./header.svg" />
-</a>
-<br/>
-<a href="https://github.com/daidv94">
-  <img align="center" width="49%" src="./repositories.svg" />
-</a>
-<a href="https://github.com/daidv94">
-  <img align="center" width="49%" src="./acti_comm.svg" />
-</a>
+# Hi! I'm Dai
 
-<a href="https://github.com/daidv94">
-  <img align="center" width="49%" src="./iso_calender.svg" />
-</a>
+A platform engineer who is passionate about platform engineering, open source, and learning new technologies.
 
-<a href="https://github.com/daidv94">
-    <img align="center" width="49%" src="./issue_pr_lang.svg" />
-</a>
+## 🚀 About Me
 
-<a href="https://github.com/daidv94">
-  <img align="center" width="49%" src="./github-habits.svg" />
-</a>
-<a href="https://github.com/daidv94">
-    <img align="center" width="49%" src="./achievements.svg" />
-</a>
+- 🔭 I’m currently working on: Platform/DevOps at GeoComply
+- 🌱 I’m learning: LLM/AI, MCP - Enhance AI to my daily work
+- 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/daovandai94)
+
+## 🛠️ Technologies & Tools
+
+- My favorite editor: Neovim
