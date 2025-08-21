@@ -5,7 +5,7 @@ A platform engineer who is passionate about platform engineering, open source, a
 ## 🚀 About Me
 
 - 🔭 I’m currently working on: Platform/DevOps at GeoComply
-- 🌱 I’m learning: LLM/AI, MCP - Enhance AI to my daily work
+- 🌱 I’m learning: LLM/AI, MCP, Bazel CI
 - 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/daovandai94)
 
 ## 🛠️ Technologies & Tools
